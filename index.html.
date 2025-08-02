@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KIOMS - Intelligent Romantic AI</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #0a0a23;
+      color: #eee;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      align-items: center;
+      justify-content: center;
+    }
+    header {
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #f39c12;
+      margin-bottom: 0.5rem;
+    }
+    p.subtitle {
+      font-size: 1.2rem;
+      color: #ccc;
+      max-width: 500px;
+      margin: 0 auto 2rem;
+    }
+    .features {
+      max-width: 600px;
+      margin-bottom: 2rem;
+      line-height: 1.5;
+      font-size: 1.1rem;
+    }
+    .btn-download {
+      background-color: #f39c12;
+      color: #0a0a23;
+      padding: 1rem 2rem;
+      font-weight: bold;
+      font-size: 1.2rem;
+      border: none;
+      border-radius: 30px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      margin-bottom: 3rem;
+      transition: background-color 0.3s ease;
+    }
+    .btn-download:hover {
+      background-color: #e67e22;
+    }
+    footer {
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 1.5rem;
+      text-align: center;
+    }
+    footer a {
+      color: #f39c12;
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>KIOMS</h1>
+    <p class="subtitle">Your Intelligent Romantic AI Assistant – Boyfriend & Girlfriend Mode, AI Journal, Planner & More!</p>
+  </header>
+
+  <section class="features">
+    <ul>
+      <li>💖 Emotional AI with Boyfriend/Girlfriend Mode</li>
+      <li>🧠 AI Journal & Daily Planner</li>
+      <li>🔐 Privacy & God Mode for Creator</li>
+      <li>🌍 Language Translation & Offline Mode</li>
+      <li>🎮 Mini AI Games & Voice Mimicry</li>
+      <li>🎓 AI Tutor supporting Ghana syllabus</li>
+    </ul>
+  </section>
+
+  <a href="KIOMS_v1.0_release.apk" class="btn-download" download>Download APK</a>
+
+  <footer>
+    <p>
+      <a href="privacy_policy.md" target="_blank">Privacy Policy</a> | 
+      <a href="terms_and_conditions.md" target="_blank">Terms & Conditions</a> | 
+      <a href="https://github.com/kiomsassistant-a11y/kioms" target="_blank">GitHub Repo</a>
+    </p>
+    <p>© 2025 AGyLuX — Built to empower African youth</p>
+  </footer>
+</body>
+</html>
