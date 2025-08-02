@@ -20,4 +20,4 @@ Country: Ghana
 Message: “I built KIOMS to show that African teens can build world-class AI too.”
 
 ## Contact
-For support or partnerships, contact: kioms.ai.support@gmail.com
+For support or partnerships, contact: kiomsassistant@gmail.com
